@@ -4,9 +4,12 @@
   <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
 </div>
   <div id="badges">
-  <img src="https://komarev.com/ghpvc/polina-nikitina1991&style=flat-square&color=blue" alt=""/>
- 
-Я начинающий аналитик данных. Мне нравится анализировать информацию и выявлять закономерности, чтобы решать сложные задачи и оптимизировать процессы. Ценю возможность работать удалённо, так как это даёт гибкость в организации рабочего времени и позволяет сосредоточиться на задачах.
+  <img src="https://komarev.com/ghpvc/?username=polina-nikitina1991&style=flat-square&color=blue" alt=""/>
+ </div>
+  
+  ---
+  
+Я начинающий аналитик данных. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Мне нравится анализировать информацию и выявлять закономерности, чтобы решать сложные задачи и оптимизировать процессы. Ценю возможность работать удалённо, так как это даёт гибкость в организации рабочего времени и позволяет сосредоточиться на задачах.
 
 ### Skills: 
 - SQL: GROUP BY, JOIN, подзапросы. 
