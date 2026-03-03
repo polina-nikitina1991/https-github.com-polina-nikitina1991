@@ -1,4 +1,11 @@
 ### Привет 👋, я Полина
+<div id="badges">
+ <a href="https://t.me/alluly9 ">
+  <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
+</div>
+  <div id="badges">
+  <img src="https://komarev.com/ghpvc/polina-nikitina1991&style=flat-square&color=blue" alt=""/>
+ 
 Я начинающий аналитик данных. Мне нравится анализировать информацию и выявлять закономерности, чтобы решать сложные задачи и оптимизировать процессы. Ценю возможность работать удалённо, так как это даёт гибкость в организации рабочего времени и позволяет сосредоточиться на задачах.
 
 ### Skills: 
